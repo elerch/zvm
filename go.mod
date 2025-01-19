@@ -1,6 +1,6 @@
 module github.com/tristanisham/zvm
 
-go 1.23.5
+go 1.23.4
 
 require (
 	github.com/charmbracelet/lipgloss v0.10.0
